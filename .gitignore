@@ -17,5 +17,8 @@ lcov.info
 out/
 
 .gas-snapshot
-
-broadcast/
+.replit
+replit.nix
+flake.lock
+flake.nix
+broadcast/in

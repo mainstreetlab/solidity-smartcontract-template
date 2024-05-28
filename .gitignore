@@ -17,8 +17,18 @@ lcov.info
 out/
 
 .gas-snapshot
+<<<<<<< HEAD
 .replit
 replit.nix
 flake.lock
 flake.nix
 broadcast/in
+=======
+
+broadcast/
+
+flake.lock
+flake.nix
+.replit
+.replit.nix
+>>>>>>> cd788b9 (Update gitignore)
